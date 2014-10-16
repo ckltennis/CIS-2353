@@ -2,11 +2,11 @@ import java.util.*;
 
 public class Stack<E>
 {
-   LinkedList<E> data;
+   ArrayList<E> data;
    
    public Stack()
    {
-      data = new LinkedList<E>();
+      data = new ArrayList<E>();
    }
    
    public E push(E element)
@@ -19,14 +19,14 @@ public class Stack<E>
    {
       checkForEmpty();
       
-      return data.removeLast();
+      return data.remove(data.size() - 1);
    }
    
    public E peek()
    {
       checkForEmpty();
       
-      return data.getLast(); 
+      return data.get(data.size() - 1); 
    }
    
    private void checkForEmpty()
