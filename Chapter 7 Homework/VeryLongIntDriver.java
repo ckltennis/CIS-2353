@@ -6,7 +6,7 @@ public class VeryLongIntDriver
       
       System.out.println( veryLongInt );
 
-      veryLongInt.fibonacci(100000);
+      veryLongInt.fibonacci(5);
       
       System.out.println( veryLongInt );
    }
