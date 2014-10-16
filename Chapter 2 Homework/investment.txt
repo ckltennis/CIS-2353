@@ -1,0 +1,177 @@
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $4,767.12
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $9,695.82
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $13,571.04
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $19,724.38
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $29,647.61
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $20,872.85
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $25,809.07
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $34,038.06
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $39,440.92
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $47,697.95
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $66,030.72
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $54,123.96
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $50,808.63
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $49,452.00
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $64,251.28
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $87,344.95
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $121,566.12
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $154,029.42
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $217,560.13
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $223,791.94
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $250,517.70
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $273,430.64
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $362,771.62
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $353,841.71
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $471,823.06
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $554,533.46
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $589,891.26
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $706,610.69
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $939,182.61
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $998,972.46
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $1,234,467.47
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $1,500,785.39
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $1,424,201.64
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $1,895,549.46
+
+Matress: $0.00
+Bank: $0.00
+Bonds: $0.00
+Stocks: $2,254,100.50
+
+Total Investment: $2,254,100.50
+Total Investment in today's dollars: $801,069.89
