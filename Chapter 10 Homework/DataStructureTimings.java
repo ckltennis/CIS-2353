@@ -59,8 +59,8 @@ public class DataStructureTimings
        finishTime = System.nanoTime( );
        elapsedTime = finishTime - startTime;
        
-       System.out.println( name + " remove " + itemsToRemove 
-         + " removed : " + itemsRemoved + " in : "
+       System.out.println( name + " - remove " + itemsToRemove 
+         + " removed: " + itemsRemoved + " in : "
          + elapsedTime / 1000000000.0 + " seconds" );
    }
    
@@ -83,7 +83,7 @@ public class DataStructureTimings
        elapsedTime = finishTime - startTime;
        
        System.out.println( name + " search " + itemsToSearch 
-         + " - found : " + itemsFound + " in : " 
+         + " - found: " + itemsFound + " in : " 
          + elapsedTime / 1000000000.0 + " seconds");
    }
 
