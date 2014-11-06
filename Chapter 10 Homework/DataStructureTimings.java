@@ -33,7 +33,7 @@ public class DataStructureTimings
 
       for ( int count = 0; count < itemsToAdd; count++ )
       {
-         collection.add( random.nextInt() );
+         collection.add( random.nextInt( 10000000 ) );
       }  
       
        finishTime = System.nanoTime( );
@@ -52,7 +52,7 @@ public class DataStructureTimings
       int itemsRemoved = 0;
       for ( int count = 0; count < itemsToRemove; count++ )
       {
-         if ( collection.remove( random.nextInt() ) )
+         if ( collection.remove( random.nextInt( 10000000 ) ) )
          {
             itemsRemoved++;
          }
@@ -70,12 +70,12 @@ public class DataStructureTimings
       int itemsToSearch, String name )
    {
       long startTime, finishTime, elapsedTime;
-      Random random = new Random(1001); 
+      Random random = new Random(1002); 
       startTime = System.nanoTime( );
       int itemsFound = 0;
       for ( int count = 0; count < itemsToSearch; count++ )
       {
-         if ( collection.contains( random.nextInt() ) )
+         if ( collection.contains( random.nextInt( 10000000 ) ) )
          {
             itemsFound++;
          }
