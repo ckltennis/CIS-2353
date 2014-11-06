@@ -6,11 +6,13 @@ public class DataStructureTimings
    {
        ArrayList<Integer> arrayList = new ArrayList<Integer>(100);
        addElements( arrayList, 100000, "ArrayList" );
+
        removeElements( arrayList, 10000, "ArrayList" );
        searchElements( arrayList, 10000, "ArrayList" );
        
        LinkedList<Integer> linkedList = new LinkedList<Integer>();
        addElements( linkedList, 100000, "LinkedList" );
+
        removeElements( linkedList, 10000, "LinkedList" );
        searchElements( linkedList, 10000, "LinkedList" );
        
@@ -59,8 +61,8 @@ public class DataStructureTimings
        finishTime = System.nanoTime( );
        elapsedTime = finishTime - startTime;
        
-       System.out.println( name + " - remove " + itemsToRemove 
-         + " removed: " + itemsRemoved + " in : "
+       System.out.println( name + " remove " + itemsToRemove 
+         + " - removed: " + itemsRemoved + " in : "
          + elapsedTime / 1000000000.0 + " seconds" );
    }
    
