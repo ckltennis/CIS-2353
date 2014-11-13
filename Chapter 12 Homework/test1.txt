@@ -1,0 +1,4 @@
+This program counts the
+number of words in a text
+The text may have many words
+in it, including big words.
